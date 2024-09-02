@@ -39,7 +39,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans&logoColor=007ACC)
 <br/>
-
+## Projetos
  [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://hasty-dev.vercel.app/assets/LogoLight-b61ed2ee.svg"/>](https://hasty-dev.vercel.app/) 
 
 **FullStack** \
@@ -50,7 +50,6 @@ Linguagens & Tecnologias: `NodeJs`, `React`, `TypeScript`, `Vite`, `Mysql`\
  
 
 ## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Lucas-Quinteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-quinteiro-2071022a4)](www.linkedin.com/in/lucas-quinteiro-2071022a4)
+[![Linkedin](https://img.shields.io/badge/-LucasQuinteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/lucas-quinteiro-2071022a4)
 [![Gmail Badge](https://img.shields.io/badge/-Lucasqcampos9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lucasqcampos9@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Lucasqc04)
