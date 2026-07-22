@@ -1,98 +1,61 @@
-![](https://komarev.com/ghpvc/?username=Lucasqc04&color=006bed)
+# Lucas Quinteiro Campos
 
-# 👨‍💻 Lucas Quinteiro
+**Desenvolvedor Full Stack Pleno | Sócio na DSecLab**  
+São Paulo, SP
 
-## Sobre mim
+Desenvolvo produtos digitais de ponta a ponta, com foco em **fintech, pagamentos, criptoativos e plataformas SaaS**. Atuo da definição de regras de negócio e arquitetura ao desenvolvimento, deploy, QA, segurança e sustentação de sistemas em produção.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Técnico em Desenvolvimento de Sistemas pela **ETEC** e atualmente cursando **ADS na Fatec-SP**.
-- 🌱 Aprendendo mais sobre **Java**, **Ruby**, **PHP**.
-- 🚀 Programador focado em **React**, **Node.js**, **Next.js**, **NestJS**, **Prisma** e **PostgreSQL**.
-- 🔒 Fundador da **DIY Security Lab**, empresa especializada em segurança e soluções em Bitcoin.
+Atualmente trabalho principalmente com **Next.js, React, TypeScript, NestJS, Prisma e PostgreSQL**, além de RabbitMQ, Docker, GitHub Actions, Vercel e Railway.
 
----
+## Impacto em produtos
 
-## 🚀 Meus Projetos
+- Atuação central na construção e evolução da **Dominipay e seus whitelabels**, que já processaram mais de **R$ 50 milhões**, ultrapassaram **100 mil movimentações** e atendem mais de **8 mil usuários**.
+- Participação ativa na concepção e nas primeiras fases do **Alfred P2P**, contribuindo com fluxos de pagamento, arquitetura whitelabel e grande parte do frontend original.
+- Reconstrução e evolução do e-commerce da **DSecLab** em Shopify, que registrou aproximadamente **R$ 900 mil em vendas**, **1.300 pedidos** e **1,4% de conversão** em 12 meses.
+- Criação do **Tools Lucasqc**, hub gratuito de ferramentas que recebe mais de **2 mil usuários únicos por mês**, obtidos organicamente por SEO.
 
-### [Paguebit](https://paguebit.com)
-💸 Plataforma financeira com dashboard intuitivo, recebimento via Pix, swap on-chain e sistema de permissões avançado.  
-Tecnologias: `React`, `Node.js`, `NestJS`, `Prisma`, `PostgreSQL`
+## Principais projetos
 
----
+### [Dominipay](https://dominipay.com.br)
+Plataforma financeira para recebimentos, pagamentos, gestão e movimentação entre reais e criptoativos. Minha atuação inclui frontend, backend, arquitetura, integrações com gateways e BaaS, ledger, carteiras não custodiais, segurança, QA e evolução do produto.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `NestJS` `Prisma` `PostgreSQL` `RabbitMQ` `Docker`
 
 ### [Alfred P2P](https://alfredp2p.io)
-🤝 Plataforma P2P automatizada para compra e venda de Bitcoin.  
-Tecnologias: `Next.js (frontend)`, `Node.js`, `NestJS`, `PostgreSQL`
+Plataforma automatizada para operações entre reais e Bitcoin, com múltiplos fluxos de pagamento e infraestrutura whitelabel. Participei ativamente da construção do produto desde suas primeiras versões.
 
----
+`Next.js` `TypeScript` `NestJS` `PostgreSQL` `Bitcoin` `Lightning` `Liquid`
 
-### [DIY Security Lab](https://dseclab.io)
-🛡️ Marketplace especializado em **cold wallets** (Krux, Jade) e soluções de segurança Bitcoin.  
-Tecnologias: `React`, `Node.js`, `Firebase`, `Prisma`, `PostgreSQL`
+### [DSecLab](https://shop.dseclab.io)
+Marketplace especializado em segurança Bitcoin e cold wallets. Trabalhei na reconstrução e personalização da loja, integrações de pagamento e logística, automações, analytics e SEO.
 
----
+`Shopify` `Liquid` `JavaScript` `CSS` `SEO` `Google Analytics`
 
-### [Foto Editor](https://foto-editor-ten.vercel.app)
-🖼️ Aplicação web com múltiplas funções para edição e manipulação de imagens e PDFs.  
-Tecnologias: `React`, `Node.js`, `Firebase`
+### [Tools Lucasqc](https://tools.lucasqc.com)
+Hub gratuito de ferramentas online, desenvolvido integralmente por mim, com arquitetura modular, SEO técnico, JSON-LD, sitemap automático e foco em performance e Core Web Vitals.
 
----
+`Next.js` `TypeScript` `Tailwind CSS` `SEO técnico`
 
-### [HastyDev](https://hasty-dev.vercel.app/)
-🌐 Projeto fullstack para desenvolvimento rápido de aplicações.  
-Tecnologias: `NodeJs`, `React`, `TypeScript`, `Vite`, `MySQL`
+### [Pixlyzer](https://github.com/Lucasqc04/pixlyzer)
+SaaS e API para extração e organização de dados de comprovantes Pix utilizando OCR, parsers específicos, confidence score e fallback por IA.
 
----
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tesseract.js` `Jest`
 
-## 🛠️ Minhas Skills
+## Stack principal
 
-**Aplicações e Dados**  
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
-![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS e Shopify Liquid  
+**Backend e dados:** Node.js, NestJS, Prisma, PostgreSQL, SQL, APIs REST, webhooks e RabbitMQ  
+**Infraestrutura e qualidade:** Docker, GitHub Actions, Vercel, Railway, Render, Jest, testes de integração, QA e code review  
+**Domínio:** Pix, boleto, cartões, gateways, BaaS, Bitcoin, Lightning, Liquid, stablecoins, KYC, antifraude e sistemas whitelabel
 
-**Utilidades**  
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+## Formação e reconhecimentos
 
-**DevOps**  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- Cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** na Fatec São Paulo.
+- Técnico em **Desenvolvimento de Sistemas** pela ETEC da Zona Leste.
+- **3 vezes medalhista de prata nacional na OBMEP**, durante os três anos do ensino médio.
+- Medalha de ouro na **OMASP**, entre os 75 melhores do Estado de São Paulo.
+- Medalha de ouro na **CUCo/USP**.
 
-**Ferramentas de desenvolvimento**  
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+## Contato
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasqc04&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Lucasqc04&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasqc04&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
-</p>
-
----
-
-## 🌍 Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-LucasQuinteiro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-quinteiro-2071022a4)
-[![Gmail Badge](https://img.shields.io/badge/-Lucasqcampos9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucasqcampos9@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Lucasqc04?label=follow&style=social)](https://github.com/Lucasqc04)
+[LinkedIn](https://www.linkedin.com/in/lucas-quinteiro-2071022a4/) · [E-mail](mailto:lucasqcampos9@gmail.com) · [GitHub](https://github.com/Lucasqc04)
