@@ -1,6 +1,6 @@
 # Lucas Quinteiro Campos
 
-**Desenvolvedor Full Stack Pleno | Sócio na DSecLab**  
+**Desenvolvedor Full Stack Pleno**  
 São Paulo, SP
 
 Desenvolvo produtos digitais de ponta a ponta, com foco em **fintech, pagamentos, criptoativos e plataformas SaaS**. Atuo da definição de regras de negócio e arquitetura ao desenvolvimento, deploy, QA, segurança e sustentação de sistemas em produção.
