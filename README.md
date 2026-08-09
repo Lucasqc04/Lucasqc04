@@ -52,7 +52,7 @@ SaaS e API para extração e organização de dados de comprovantes Pix utilizan
 
 - Cursando **Tecnologia em Análise e Desenvolvimento de Sistemas** na Fatec São Paulo.
 - Técnico em **Desenvolvimento de Sistemas** pela ETEC da Zona Leste.
-- **3 vezes medalhista de prata nacional na OBMEP**, durante os três anos do ensino médio.
+- Premiado em **três edições consecutivas da OBMEP** durante o ensino médio.
 - Medalha de ouro na **OMASP**, entre os 75 melhores do Estado de São Paulo.
 - Medalha de ouro na **CUCo/USP**.
 
